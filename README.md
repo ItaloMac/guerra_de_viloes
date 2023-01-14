@@ -1,6 +1,6 @@
 #1º SEMESTRE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS: PROJETO SOFTWARE GUERRA DE VILÕES
 ##UNIDADE CURRICULAR PROGRAMAÇÃO DE SOLUÇÕES COMPUTACIONAIS
-##SOBRE:
+
 ###Software de confronto entre heróis e vilões e, por que não, heróis
 contra heróis (as editoras adoram isso).
 Os oponentes possuem dois índices importantes: Os pontos de força (PF) e os
