@@ -1,7 +1,7 @@
-#1º SEMESTRE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS: PROJETO SOFTWARE GUERRA DE VILÕES
+1º SEMESTRE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS: PROJETO SOFTWARE GUERRA DE VILÕES
 ##UNIDADE CURRICULAR PROGRAMAÇÃO DE SOLUÇÕES COMPUTACIONAIS
 
-###Software de confronto entre heróis e vilões e, por que não, heróis
+Software de confronto entre heróis e vilões e, por que não, heróis
 contra heróis (as editoras adoram isso).
 Os oponentes possuem dois índices importantes: Os pontos de força (PF) e os
 pontos de energia (PE).
@@ -15,5 +15,5 @@ personagem, que pode ter seus PEs próximos a zero no meio do confronto,
 ficando exaurido. Neste caso, o personagem poderá gastar sua ação de turno
 para se recuperar parcialmente.
 
-##Tecnologias utilizadas
+##Tecnologias utilizadas:
 1. JAVA
